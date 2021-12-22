@@ -14,7 +14,7 @@ Input:  'ATGTGTCCATGT'; output: [(1,3), (3,5), (9,11)]
 
 ## Question 2
 
-In bioinformatics a common tasks related to the sequences are to calculate the GC-content of the given sequence. GC content means the proportion of the G and C nucleotides in the sequence. A set of 10 sequences are provided to you at https://github.com/kokul-glb/r_questions. Please complete the following tasks that are related to the GC-content.
+In bioinformatics a common tasks related to the sequences are to calculate the GC-content of the given sequence. GC content means the proportion of the G and C nucleotides in the sequence. A set of 10 sequences are provided to you at https://github.com/greenlight-biosciences/r_questions/. Please complete the following tasks that are related to the GC-content.
 
 1.	Use R/Python code to calculate the GC-content of the sequences in the q1.fa file
 2.	Identify the sequence with the highest GC-content
